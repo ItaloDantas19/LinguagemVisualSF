@@ -1,0 +1,16 @@
+dimensao,nivel,id_estimulo,cor_vibrante,cor_sobria,cor_neutra,cor_terrosa,forma_organica,forma_tradicional,forma_anatomica,forma_basica,mat_decorativa,mat_fosca,mat_crua,mat_sintetica,estampa_floral,ornamento_baixo,ornamento_alto,costura_aparente,costura_discreta,costura_oculta,acabamento_rustico,acabamento_polido
+Exclusividade,Maior,Exc_Maior,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1
+Exclusividade,Médio,Exc_Medio,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Exclusividade,Menor,Exc_Menor,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+Autenticidade,Maior,Aut_Maior,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+Autenticidade,Médio,Aut_Medio,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+Autenticidade,Menor,Aut_Menor,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1
+Funcionalismo,Maior,Func_Maior,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+Funcionalismo,Médio,Func_Medio,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+Funcionalismo,Menor,Func_Menor,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Localismo,Maior,Loc_Maior,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0
+Localismo,Médio,Loc_Medio,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Localismo,Menor,Loc_Menor,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+Equidade,Maior,Equ_Maior,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0
+Equidade,Médio,Equ_Medio,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+Equidade,Menor,Equ_Menor,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1
