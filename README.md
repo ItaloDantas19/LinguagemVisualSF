@@ -4,12 +4,14 @@ Este é o pacote de replicação do capítulo "Ampliando a interpretação da co
 
 Artigos publicados:
 
-* DANTAS, Ítalo José de Medeiros et al. Is there a color for sustainability in fashion products? A case study with Brazilian slow fashion footwear. Cultura e Scienza del Colore-Color Culture and Science, v. 17, n. 01, p. 45-56, 2025.
+* DANTAS, Ítalo José de Medeiros; DUPRAT, Nicolas; CURTH, Marcelo. Design, semiótica e sustentabilidade: mapeamento sintático da configuração visual de calçados brasileiros no contexto do slow fashion: a syntactic mapping of the visual configuration of Brazilian footwear in the context of Slow Fashion. Revista Transverso, [S. l.], v. 1, n. 17, 2025. DOI: 10.36704/transverso.v1i17.10244. Disponível em: https://revista.uemg.br/transverso/article/view/10244. Acesso em: 21 jan. 2026.
+* DANTAS, Ítalo José de Medeiros et al. Is there a color for sustainability in fashion products? A case study with Brazilian slow fashion footwear. Cultura e Scienza del Colore-Color Culture and Science, v. 17, n. 01, p. 45-56, 2025. https://doi.org/10.23738/CCSJ.170104. Disponível em: https://jcolore.gruppodelcolore.it/ojs/index.php/CCSJ/article/view/408. Acesso em 21 jan. 2026.
 
 -------------------
 
-TThis is the replication package of the chapter "Expanding the interpretation of visual communication in slow fashion footwear: identification and proposal of a machine learning model based on empirical aesthetics", by researcher Me. Ítalo José de Medeiros Dantas, in co-authorship with Prof. Dr. Marcelo Curth. This study is part of the thesis "THE SYMBOLIC LANGUAGE OF FASHION PRODUCTS AND MACHINE LEARNING: RESEARCH AND PROPOSITION OF A PREDICTIVE MODEL FOR THE FOOTWEAR INDUSTRY", by the paper's main author, a PROSUC/CAPES scholarship holder, developed within the scope of the Graduate Program in Cultural Process and Expression at Feevale University.
+This is the replication package of the chapter "Expanding the interpretation of visual communication in slow fashion footwear: identification and proposal of a machine learning model based on empirical aesthetics", by researcher Me. Ítalo José de Medeiros Dantas, in co-authorship with Prof. Dr. Marcelo Curth. This study is part of the thesis "THE SYMBOLIC LANGUAGE OF FASHION PRODUCTS AND MACHINE LEARNING: RESEARCH AND PROPOSITION OF A PREDICTIVE MODEL FOR THE FOOTWEAR INDUSTRY", by the paper's main author, a PROSUC/CAPES scholarship holder, developed within the scope of the Graduate Program in Cultural Process and Expression at Feevale University.
 
 Published papers:
 
-* Dantas, Í. J. M., Curth, M., Teixeira, D. P., Soares Junior, G., & Batista, F. E. A. (2025). Is there a color for sustainability in fashion products? A case study with Brazilian slow fashion footwear. Cultura e Scienza del Colore-Color Culture and Science, 17(01), 45-56.
+* Dantas, Ítalo J. de M., Duprat, N., & Curth, M. (2025). Design, semiótica e sustentabilidade: mapeamento sintático da configuração visual de calçados brasileiros no contexto do slow fashion: a syntactic mapping of the visual configuration of Brazilian footwear in the context of Slow Fashion. Revista Transverso, 1(17). https://doi.org/10.36704/transverso.v1i17.10244
+* Dantas, Í. J. M., Curth, M., Teixeira, D. P., Soares Junior, G., & Batista, F. E. A. (2025). Is there a color for sustainability in fashion products? A case study with Brazilian slow fashion footwear. Cultura e Scienza del Colore-Color Culture and Science, 17(01), 45-56. https://doi.org/10.23738/CCSJ.170104
